@@ -8,5 +8,5 @@ package com.demo.chapter01.behavior;
  */
 public interface FlyBehavior {
 
-    void    fly();
+    void fly();
 }
