@@ -1,5 +1,5 @@
 # Head-First-Demo
-包含 《Head First》 书籍中所有 Demo 及 Test
+包含 《Head First》 书籍以及其中所有 Demo 及 Test
 
 # 设计模式
 ### strategy pattern (策略模式) 
